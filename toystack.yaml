@@ -1,0 +1,5 @@
+name: Toystack
+version: 0.1
+env_variables:
+  PORT: 3000
+port: 3000
